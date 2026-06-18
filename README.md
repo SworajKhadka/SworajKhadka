@@ -1,114 +1,133 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=001F5B&height=200&section=header&text=Hi%20there!%20I'm%20Sworaj%20Khadka%20%F0%9F%9A%80&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=📊%20Data%20Analyst%20•%20🤖%20ML%20Enthusiast%20•%20📈%20Insight%20Driver&descAlignY=58&descSize=18&animation=fadeIn&descAnimation=fadeIn" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=110&section=header" width="100%"/>
 
 <div align="center">
 
-###  📊 Analyze • 🔍 Discover • 🚀 Build
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Sworaj+Khadka+%F0%9F%91%8B;Full+Stack+Developer+%26+Data+Scientist;Building+ideas+into+production-ready+products." alt="Typing SVG" />
 
-</div>
+<br/>
 
----
-
-## 🧷 About Me
-
-> *Every challenge is just an opportunity in disguise.*
-
-
-Detail-oriented Data Analyst skilled in data analysis, visualization, and storytelling, with a strong interest in Data Science and ML. Adept at transforming complex data into actionable insights that drive informed business and marketing decisions.
-
- ✨
-
----
-
-
-
-## 🛠️ skills&Tools 
-
-<div align="center">
-
-
-### 💻 Languages
-![C](https://img.shields.io/badge/c-001F5B?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-001F5B?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-001F5B?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-001F5B?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-001F5B?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-001F5B?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001F5B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-001F5B?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-001F5B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-001F5B?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-001F5B?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-001F5B?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/numpy-001F5B?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-001F5B?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-001F5B?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-001F5B?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-001F5B?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-001F5B?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-001F5B?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### 🧰 Frameworks & Tools
-![Flask](https://img.shields.io/badge/flask-001F5B?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-001F5B?style=for-the-badge&logo=selenium&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-001F5B?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/figma-001F5B?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-001F5B?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-001F5B?style=for-the-badge&logo=Canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-001F5B?style=for-the-badge&logo=capcut&logoColor=white)
+<img src="https://img.shields.io/badge/Jain%20University-Rank%201%20%7C%20CGPA%209.65-1F3864?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-595959?style=flat-square&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=SworajKhadka&style=flat-square&color=4F8EF7&label=Profile+Views"/>
 
 </div>
 
 ---
 
+## 🧠 `whoami`
 
+```python
+class Sworaj:
+    role       = "Data Scientist x Full Stack Developer"
+    university = "Jain University, Bengaluru  —  Rank 1 | CGPA 9.65"
+    focus      = ["Data Engineering", "ML Systems", "Full-Stack Products"]
+    building   = "AI-powered tools & end-to-end data pipelines"
+    mantra     = "Turn raw data into decisions. Ship ideas as products."
+```
 
+---
 
+## 🛠 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Data & ML**&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Big Data**&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & APIs**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases**&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & DevOps**&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SworajKhadka&background=F0F4FF&ring=001F5B&fire=1A3A8F&currStreakLabel=001F5B&sideLabels=001F5B&dates=0D1F4A&sideNums=0D1F4A&currStreakNum=0D1F4A&border=4A6FA5&hide_border=false" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SworajKhadka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SworajKhadka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </div>
----
-
-
-
 
 <div align="center">
-
-## 🌐 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-001F5B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swocexy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F5B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sworajkhadka21/)
-[![Facebook](https://img.shields.io/badge/Facebook-001F5B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sworaj.khadka.7)
-[![Gmail](https://img.shields.io/badge/Gmail-001F5B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sworajkhadka21@gmail.com)
-[![X](https://img.shields.io/badge/X-001F5B?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swosexydai)
-[![Pinterest](https://img.shields.io/badge/Pinterest-001F5B?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/sworajkhadka/)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SworajKhadka&theme=tokyonight&hide_border=true" width="56%"/>
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **Customer Segmentation & Retention Analysis** | Python · Scikit-learn · Plotly · Streamlit | [Live ↗](https://customersegmentation-sworaj.streamlit.app/) · [GitHub](https://github.com/SworajKhadka/Customer_segmentation_-_RA) |
+| **AI Lost and Found** | FastAPI · Gemini AI · MongoDB · React · Vite | [Live ↗](https://ai-lost-and-found-five.vercel.app/) · [GitHub](https://github.com/SworajKhadka/AI-Lost-And-Found) |
+| **GitHub Profile Analyzer** | React 19 · Chart.js · GitHub REST API · Vercel | [Live ↗](https://github-profile-analyzer-eta.vercel.app) · [GitHub](https://github.com/SworajKhadka/Github-Profile-Analyzer) |
+| **Resume Skill Analyzer** | Python · NLP · React · FastAPI | — |
+| **Scash** | React · Next.js · Node.js · PostgreSQL | — |
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sworajkhadka.com.np-1F3864?style=for-the-badge&logo=vercel&logoColor=white)](https://sworajkhadka.com.np)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sworajkhadka21)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SworajKhadka)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sworajkhadka21@gmail.com)
 
-<h1>✍️ Random Dev Quote</h1>
-<hr/>
-<div>
-<img src="https://camo.githubusercontent.com/6d596d994c1abc4c2186a8a8ff933496a1f4fa1fa2f59e5fbcdb91e61523f716/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"> 
- 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=001F5B&height=120&section=footer" width="100%"/>
-</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=110&section=footer" width="100%"/>
