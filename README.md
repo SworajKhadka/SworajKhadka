@@ -2,15 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Sworaj+Khadka+%F0%9F%91%8B;Full+Stack+Developer+%26+Data+Scientist;Building+ideas+into+production-ready+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Hey+there!+I+am+Sworaj+Khadka;Full+Stack+Developer+and+Data+Scientist;Building+ideas+into+production-ready+products." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Jain%20University-Rank%201%20%7C%20CGPA%209.65-1F3864?style=flat-square&logoColor=white"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-595959?style=flat-square&logo=googlemaps&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SworajKhadka&style=flat-square&color=4F8EF7&label=Profile+Views"/>
 
 </div>
 
@@ -20,7 +16,7 @@
 
 ```python
 class Sworaj:
-    role       = "Data Scientist x Full Stack Developer"
+    role       = "Full Stack Developer  ×  Data Scientist"
     university = "Jain University, Bengaluru  —  Rank 1 | CGPA 9.65"
     focus      = ["Data Engineering", "ML Systems", "Full-Stack Products"]
     building   = "AI-powered tools & end-to-end data pipelines"
@@ -91,13 +87,13 @@ class Sworaj:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SworajKhadka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SworajKhadka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="155"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SworajKhadka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SworajKhadka&theme=tokyonight&hide_border=true" height="155"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SworajKhadka&theme=tokyonight&hide_border=true" width="56%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SworajKhadka&theme=tokyo-night&hide_border=true&area=true" width="96%"/>
 </div>
 
 ---
