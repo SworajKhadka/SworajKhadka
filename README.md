@@ -27,7 +27,6 @@ class Sworaj:
 
 ## 🌱 Currently Building
 
-- 🧠 Deep learning fundamentals with **PyTorch**
 - 🗄️ End-to-end ML systems: data → model → **Postgres** → API
 
 ---
@@ -49,12 +48,30 @@ class Sworaj:
 **Data & ML**&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**ML Concepts**&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2D3748?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-2D3748?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-2D3748?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2D3748?style=flat-square)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2D3748?style=flat-square)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-2D3748?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2D3748?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2D3748?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-2D3748?style=flat-square)
+![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-2D3748?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2D3748?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2D3748?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-2D3748?style=flat-square)
 
 **Big Data**&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -82,6 +99,7 @@ class Sworaj:
 
 **Tools & DevOps**&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -116,8 +134,6 @@ class Sworaj:
 | **Customer Segmentation & Retention Analysis** | Python · Scikit-learn · Plotly · Streamlit | [Live ↗](https://customersegmentation-sworaj.streamlit.app/) · [GitHub](https://github.com/SworajKhadka/Customer_segmentation_-_RA) |
 | **AI Lost and Found** | FastAPI · Gemini AI · MongoDB · React · Vite | [Live ↗](https://ai-lost-and-found-five.vercel.app/) · [GitHub](https://github.com/SworajKhadka/AI-Lost-And-Found) |
 | **GitHub Profile Analyzer** | React 19 · Chart.js · GitHub REST API · Vercel | [Live ↗](https://github-profile-analyzer-eta.vercel.app) · [GitHub](https://github.com/SworajKhadka/Github-Profile-Analyzer) |
-| Resume Skill Analyzer | Python · NLP · React · FastAPI | — |
-| Scash | React · Next.js · Node.js · PostgreSQL | — |
 
 ---
 
